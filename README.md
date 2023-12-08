@@ -2,7 +2,7 @@
 
 This is a C++ program that implements a Viginere cipher in order to encrypt and decrypt user provided text.
 
-## Usage
+## Instructions
 
 Upon executing program you will be prompted with a choice:
 Enter 'E' to encrypt text.
@@ -22,3 +22,7 @@ Anything other than 'Y' or 'N' will also terminate the program.
 ## Author
 
 This program was written by Brian Siebert.
+
+## Date Published
+
+December 8, 2023
