@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\brian\source\repos\CIS7_Project\CIS7_Project\main.cpp(9,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brian\source\repos\CIS7_Project\CIS7_Project\main.cpp(21,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CIS7_Project.vcxproj -> C:\Users\brian\source\repos\CIS7_Project\x64\Debug\CIS7_Project.exe
